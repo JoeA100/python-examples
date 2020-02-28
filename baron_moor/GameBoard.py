@@ -6,7 +6,7 @@ class GameBoard:
 
     columns = 20
 
-    def __init__(self,rows,columns):
+    def (self,rows,columns):
         self.rows
 
     def getRows(self):

@@ -50,7 +50,9 @@ def main():
                 con = False
 
             else:
+                print("invalid action")
                 pass
+
 
     playerPosition = PlayerPosition()
     treasurePosition = TreasurePosition()
